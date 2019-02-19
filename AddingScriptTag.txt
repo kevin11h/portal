@@ -1,0 +1,9 @@
+async componentDidMount() {
+
+  const script = document.createElement("script");
+
+  script.src = "<JAVASCRIPT_URL>.js";
+  script.async = true;
+
+  document.body.appendChild(script); 
+}
