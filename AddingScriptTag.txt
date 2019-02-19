@@ -7,3 +7,5 @@ async componentDidMount() {
 
   document.body.appendChild(script); 
 }
+
+https://stackoverflow.com/questions/8578617/inject-a-script-tag-with-remote-src-and-wait-for-it-to-execute
