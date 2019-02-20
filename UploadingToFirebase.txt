@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/52177222/blank-page-after-successful-firebase-deployment
+
+https://medium.freecodecamp.org/react-and-firebase-are-all-you-need-to-host-your-web-apps-f7ab55919f53
